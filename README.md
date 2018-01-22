@@ -2,7 +2,7 @@
 
 > A community-currated collection of tech resources, projects, and other things related for Birmingham, AL
 
-The goal of this repo is to become a central location for Birmingham, AL developers to find tech resources, events, share projects, etc..
+The goal of this repo is to become a central location for Birmingham, AL developers to find tech resources, events, share projects, etc.. You can find this on the web at **http://b🐖.ws**.
 
 Contributions are *always* welcome. Have something you'd like to add or change? Open a [pull request](https://github.com/wad3g/bhamtech/pulls/).
 
