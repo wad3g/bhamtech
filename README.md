@@ -131,24 +131,25 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 - [Magic City React Discord](https://discordapp.com/invite/2ykvzUc)
 
 ### IRC
-- Birmingham Javascript meetup on Freenode - [#bhmjs](http://irc2go.com/webchat/?net=freenode&room=%23bhmjs)
-- Birmingham Linux User Group on Freenode - [#balu](http://irc2go.com/webchat/?net=freenode&room=%23balu)
+- [#bhmjs](http://irc2go.com/webchat/?net=freenode&room=%23bhmjs) - Birmingham Javascript meetup on Freenode
+- [#balu](http://irc2go.com/webchat/?net=freenode&room=%23balu) - Birmingham Linux User Group on Freenode.net
 
 ### Slack
 - [Magic City Tech Slack](http://magiccitytech.org/)
 - [Futureproof Alabama Slack](https://www.futureproofbama.org/slack)
 
 ### Reddit
-- [/r/Birmingham](https://www.reddit.com/r/Birmingham/)([Discord](https://discord.gg/BfkyF4u))
+- [/r/Birmingham](https://www.reddit.com/r/Birmingham/)
 - [/r/UAB](https://www.reddit.com/r/UAB/)
 - [/r/FutureproofBama](https://www.reddit.com/r/futureproofbama/)
 
 ### Other
-- EdBirmingham/Network on Gitter - [edbirmingham/network](https://gitter.im/edbirmingham/network)
+- [edbirmingham/network](https://gitter.im/edbirmingham/network) - EdBirmingham/Network on Gitter
 
 
 ## Projects
 - [Bham Bad Eats 🍝](https://twitter.com/bham_bad_eats)([GitHub](https://github.com/leesmith/bham_bad_eats)) by [@leesmith](https://github.com/leesmith)
+- [Traffic Accident Reports](http://www.codeforbirmingham.org/traffic-accident-reports/)([GitHub](https://github.com/codeforbirmingham/traffic-accident-reports))
 
 ## Open Data
 - [Birmingham Open Data Portal](https://data.birminghamal.gov/)
