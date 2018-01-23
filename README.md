@@ -148,8 +148,8 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 
 
 ## Projects
-- [Bham Bad Eats 🍝](https://twitter.com/bham_bad_eats)([GitHub](https://github.com/leesmith/bham_bad_eats)) by [@leesmith](https://github.com/leesmith)
-- [Traffic Accident Reports](http://www.codeforbirmingham.org/traffic-accident-reports/)([GitHub](https://github.com/codeforbirmingham/traffic-accident-reports))
+- [Bham Bad Eats 🍝](https://twitter.com/bham_bad_eats) ([GitHub](https://github.com/leesmith/bham_bad_eats)) by [@leesmith](https://github.com/leesmith)
+- [Traffic Accident Reports](http://www.codeforbirmingham.org/traffic-accident-reports/) ([GitHub](https://github.com/codeforbirmingham/traffic-accident-reports))
 
 ## Open Data
 - [Birmingham Open Data Portal](https://data.birminghamal.gov/)
