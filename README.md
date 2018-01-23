@@ -98,6 +98,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [Tech on Tap](http://techontapbham.com/)
 * [OWASP Alabama](https://www.meetup.com/OWASP-Alabama/)
 * [Magic City React](http://magiccityreact.com/)
+* [ACM at UAB](https://acm.cs.uab.edu/)
 
 ## Networking
 
