@@ -151,7 +151,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 
 ## Projects
 * [Bham Bad Eats 🍝](https://twitter.com/bham_bad_eats) ([GitHub](https://github.com/leesmith/bham_bad_eats)) by [@leesmith](https://github.com/leesmith)
-* [Traffic Accident Reports](http://www.codeforbirmingham.org/traffic-accident-reports/) ([GitHub](https://github.com/codeforbirmingham/traffic-accident-reports))
+* [Traffic Accident Reports](http://www.codeforbirmingham.org/traffic-accident-reports/) ([GitHub](https://github.com/codeforbirmingham/traffic-accident-reports)) by [@codeforbirmingham](https://github.com/codeforbirmingham)
 
 ## Open Data
 * [Birmingham Open Data Portal](https://data.birminghamal.gov/)
@@ -161,6 +161,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [US City Open Data Census](http://us-city.census.okfn.org/place/birmingham)
 * [Top Developers on GitHub from Birmingham, AL](http://githubstars.com/top-developers/Birmingham)
 * [IPUMS USA](https://usa.ipums.org/usa/)
+* [Open Elections Data for Alabama](http://www.openelections.net/results/#al)
 
 ## Miscellaneous
 * [Keep It Local Pledge](http://keepitlocalpledge.com/)
