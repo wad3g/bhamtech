@@ -165,6 +165,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 
 ## Miscellaneous
 * [Keep It Local Pledge](http://keepitlocalpledge.com/)
+* [Computer Programming Small Group](https://groups.highlandsapp.com/groups/computer-programming-spring-2018)
 
 ## Other Resources
 * [Birmingham Business Alliance](https://birminghambusinessalliance.com/small-business/resources/)
