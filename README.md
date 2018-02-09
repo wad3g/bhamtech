@@ -100,7 +100,9 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [OWASP Alabama](https://www.meetup.com/OWASP-Alabama/)
 * [Magic City React](http://magiccityreact.com/)
 * [ACM at UAB](https://acm.cs.uab.edu/)
-
+* [Atlassian User Group](https://www.meetup.com/Atlassian-User-Group-Birmingham)
+* [Birmingham Area Software Enthusiasts](https://www.meetup.com/base205/)
+ 
 ## Networking
 
 ### Conferences and Events
