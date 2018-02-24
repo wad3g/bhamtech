@@ -102,6 +102,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [ACM at UAB](https://acm.cs.uab.edu/)
 * [Atlassian User Group](https://www.meetup.com/Atlassian-User-Group-Birmingham)
 * [Birmingham Area Software Enthusiasts](https://www.meetup.com/base205/)
+* [BHAM! Birmingham Game Developers](https://www.facebook.com/groups/bhamgamedev/about/)
  
 ## Networking
 
