@@ -100,6 +100,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [OWASP Alabama](https://www.meetup.com/OWASP-Alabama/)
 * [Magic City React](http://magiccityreact.com/)
 * [ACM at UAB](https://acm.cs.uab.edu/)
+* [BHAM! Birmingham Game Developers](https://www.facebook.com/groups/bhamgamedev/about/)
 
 ## Networking
 
@@ -139,6 +140,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 ### Slack
 * [Magic City Tech Slack](http://magiccitytech.org/)
 * [Futureproof Alabama Slack](https://www.futureproofbama.org/slack)
+* [BHAM! Birmingham Game Developers Slack](https://bhamgamedevs.herokuapp.com/)
 
 ### Reddit
 * [/r/Birmingham](https://www.reddit.com/r/Birmingham/)
