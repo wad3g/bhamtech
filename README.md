@@ -100,8 +100,9 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [OWASP Alabama](https://www.meetup.com/OWASP-Alabama/)
 * [Magic City React](http://magiccityreact.com/)
 * [ACM at UAB](https://acm.cs.uab.edu/)
-* [BHAM! Birmingham Game Developers](https://www.facebook.com/groups/bhamgamedev/about/)
-
+* [Atlassian User Group](https://www.meetup.com/Atlassian-User-Group-Birmingham)
+* [Birmingham Area Software Enthusiasts](https://www.meetup.com/base205/)
+ 
 ## Networking
 
 ### Conferences and Events
@@ -167,6 +168,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 
 ## Miscellaneous
 * [Keep It Local Pledge](http://keepitlocalpledge.com/)
+* [Computer Programming Small Group](https://groups.highlandsapp.com/groups/computer-programming-spring-2018)
 
 ## Other Resources
 * [Birmingham Business Alliance](https://birminghambusinessalliance.com/small-business/resources/)
