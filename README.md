@@ -1,6 +1,6 @@
 ![BHAM TECH](./logo.png)
 
-> A community-currated collection of tech resources, projects, and other things related for Birmingham, AL
+> A community-curated collection of tech resources, projects, and other things related for Birmingham, AL
 
 The goal of this repo is to become a central location for Birmingham, AL developers to find tech resources, events, share projects, etc.. You can find this on the web at **http://b🐖.ws**.
 
@@ -110,6 +110,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [Sloss Tech](https://sloss.tech/)
 * [TEDxBirmingham](https://tedxbirmingham.org/)
 * [Magic City Hacks](http://magiccityhacks.com/)
+* [Rebase](https://rebaseconf.io/)
 
 ### Coworking Spaces
 * [Hardware Park](http://www.hardwarepark.org/)
@@ -172,8 +173,8 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [Computer Programming Small Group](https://groups.highlandsapp.com/groups/computer-programming-spring-2018)
 
 ## Other Resources
-* [Birmingham Business Alliance](https://birminghambusinessalliance.com/small-business/resources/)
-* [TechBirmingham](https://www.techbirmingham.com/about/community-resources/)
+* [TechBirmingham Community Resources](https://www.techbirmingham.com/about/community-resources/)
+* [Red Mountain Makers Wiki](http://wiki.redmountainmakers.org/wiki/Local_Tech_Organizations)
 
 # Contribute
 
