@@ -113,6 +113,9 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [Rebase](https://rebaseconf.io/)
 
 ### Coworking Spaces
+* [Forge](http://workatforge.com/)
+* [The Hub](http://hubbham.com/)
+* [MAKEbhm Coworking](http://www.makebhm.com/coworking/)
 * [Hardware Park](http://www.hardwarepark.org/)
 * [Red Mountain Makers](https://www.redmountainmakers.org/)
 * [Ignite](https://innovationdepot.org/collaborate/) by Innovation Depot
