@@ -149,6 +149,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [/r/Birmingham](https://www.reddit.com/r/Birmingham/)
 * [/r/UAB](https://www.reddit.com/r/UAB/)
 * [/r/FutureproofBama](https://www.reddit.com/r/futureproofbama/)
+* [/r/BirminghamIT](https://www.reddit.com/r/BirminghamIT/)
 
 ### Other
 * [edbirmingham/network](https://gitter.im/edbirmingham/network) - EdBirmingham/Network on Gitter
