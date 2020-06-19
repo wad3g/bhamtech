@@ -104,6 +104,7 @@ Contributions are *always* welcome. Have something you'd like to add or change? 
 * [Birmingham Area Software Enthusiasts](https://www.meetup.com/base205/)
 * [BHAM! Birmingham Game Developers](https://www.facebook.com/groups/bhamgamedev/about/)
 * [The Things Network](https://www.thethingsnetwork.org/community/birmingham-al/)
+* [Birmingham Black Techies](https://qrco.de/bbPb4Z)
  
 ## Networking
 
